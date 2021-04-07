@@ -3,65 +3,73 @@
     {
       "sys": { "id": "1" },
       "fields": {
-        "title": "queen panel bed",
-        "price": 10.99,
-        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        "title": "Chocolate Raspberry Mint Cupcake",
+        "price": 3.49,
+        "image": { "fields": { "file": { "url": "./images/chocolate-rasp-mint.jpg" } } }
       }
     },
     {
       "sys": { "id": "2" },
       "fields": {
-        "title": "king panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        "title": "Strawberry Red Velvet Cupcake",
+        "price": 3.29,
+        "image": { "fields": { "file": { "url": "./images/strawberry-red-velvet.jpg" } } }
       }
     },
     {
       "sys": { "id": "3" },
       "fields": {
-        "title": "single panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        "title": "Snickerdoodle Cupcake",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./images/snickerdoodle.jpg" } } }
       }
     },
     {
       "sys": { "id": "4" },
       "fields": {
-        "title": "twin panel bed",
-        "price": 22.99,
-        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        "title": "Valentine's Kiss Cupcake",
+        "price": 3.59,
+        "image": { "fields": { "file": { "url": "./images/valentines-kiss.jpg" } } }
       }
     },
     {
       "sys": { "id": "5" },
       "fields": {
-        "title": "fridge",
-        "price": 88.99,
-        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        "title": "Citrus Berry Cupcake",
+        "price": 3.29,
+        "image": { "fields": { "file": { "url": "./images/citrus-berry.jpg" } } }
       }
     },
     {
       "sys": { "id": "6" },
       "fields": {
-        "title": "dresser",
-        "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        "title": "Unicorn Sprinkles Cupcake",
+        "price": 3.99,
+        "image": { "fields": { "file": { "url": "./images/unicorn-sprinkles.jpg" } } }
       }
     },
     {
       "sys": { "id": "7" },
       "fields": {
-        "title": "couch",
-        "price": 45.99,
-        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        "title": "Chocolate Caramel Cupcake",
+        "price": 3.29,
+        "image": { "fields": { "file": { "url": "./images/chocolate-caramel.jpg" } } }
       }
     },
     {
       "sys": { "id": "8" },
       "fields": {
-        "title": "table",
-        "price": 33.99,
-        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        "title": "Buttery Popcorn Cupcake",
+        "price": 3.79,
+        "image": { "fields": { "file": { "url": "./images/buttery-popcorn.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Strawberry Garden Cupcake",
+        "price": 3.59,
+        "image": { "fields": { "file": { "url": "./images/strawberry-garden.jpg" } } }
       }
     }
   ]
