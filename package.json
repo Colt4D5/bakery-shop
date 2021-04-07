@@ -1,0 +1,23 @@
+{
+  "name": "bakery-shop",
+  "version": "1.0.0",
+  "description": "Sample Bakery Shop Application",
+  "main": "index.html",
+  "dependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colt4D5/bakery-shop.git"
+  },
+  "author": "Colton Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colt4D5/bakery-shop/issues"
+  },
+  "homepage": "https://github.com/Colt4D5/bakery-shop#readme"
+}

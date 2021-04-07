@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="Bake Me Better" content="Bake Me Better">
+		<title>Bake Me Better | Shop</title>
+		<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous">
+		<link rel="stylesheet" href="/index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css" type="text/css" media="all">
+		
+		<script defer="" src="/index.HASH_REF_147c3be9838f78fc816d5dfc1397955d.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<nav class="navbar">
+			<div class="navbar-center">
+				<span class="nav-icon">
+					<i class="fas fa-bars" style="color: white
+"></i>
+					<div class="nav-container hidden"></div>
+				</span>
+				<!-- <img src="images/logo.svg" alt="Shop Logo" /> -->
+				<h1 class="brand-title">BAKE ME <span>BETTER</span></h1>
+				<div class="cart-btn">
+					<span class="nav-icon">
+						<!-- <i class="fas fa-cart-plus"></i> -->
+						<i class="fas fa-birthday-cake" style="color: white
+"></i>
+					</span>
+					<div class="items-in-cart">0</div>
+				</div>
+			</div>
+		</nav>
+		
+		<!-- Hero -->
+		<header class="hero">
+			<div class="banner">
+				<h1 class="banner-title">Custom Baked Goods</h1>
+				<a href="#products" class="banner-btn">Shop Now</a>
+			</div>
+		</header>
+		
+		<!-- End of Hero -->
+		<!-- Products -->
+		<section class="products" id="products">
+			<div class="section-title">
+				<h2>Our proucts</h2>
+			</div>
+			<div class="products-center">
+				<!-- Single product -->
+					<!-- Products go here -->
+				<!-- End of single product -->
+			</div>
+		</section>
+		<!-- End of Products -->
+		<!-- Cart -->
+		<div class="cart-overlay">
+			<div class="cart">
+				<span class="close-cart">
+					<i class="fas fa-window-close"></i>
+				</span>
+				<h2>your cart</h2>
+				<div class="cart-content">
+					<div class="cart-items">
+					<!-- Cart Item -->
+						<!-- Cart Items go here -->
+					<!-- End of Cart Item -->
+					</div>
+					<div class="cart-footer">
+						<h3>your total: $<span class="cart-total">0.00</span></h3>
+						<button class="clear-cart banner-btn">Clear Cart</button>
+						<button class="cart-checkout banner-btn">Check out</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End of Cart -->
+		
+		<!-- Footer -->
+		
+				
+	</body>
+</html>
