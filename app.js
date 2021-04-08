@@ -186,5 +186,5 @@ document.addEventListener('DOMContentLoaded', () => {
 	productsContainer.addEventListener('click', ui.addToCart.bind(ui));
 	cartDOM.addEventListener('click', ui.handleCartClick.bind(ui));
 	cartBtn.addEventListener('click', ui.toggleCart);
-	hamburger.addEventListener('click', () => menu.classList.toggle('hidden'));
+	// hamburger.addEventListener('click', () => menu.classList.toggle('hidden'));
 });
