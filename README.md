@@ -11,3 +11,5 @@ For 12 years I owned and operated a Custom Cake Bakery in Riverside, CA, so I th
 Utilizing MVC architecture helped keep me on task and organized with my code and I am happy with the results. I intend to improve this eshop in the future with much more functionality, as well.
 
 [Here](https://coltons-bakery.netlify.app) is a live link to the bakery shop website hosted through Netlify.
+
+Thank you for taking the time to check out my work. It is greatly appreciated.
